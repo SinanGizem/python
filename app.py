@@ -1,0 +1,2 @@
+import astar
+print("Hello")
